@@ -13,6 +13,7 @@ public class Version {
 	}
 	
 	public static void main(String[] args) {
+		//this line should be commented out
 		System.out.println(id());
 	}
 }
